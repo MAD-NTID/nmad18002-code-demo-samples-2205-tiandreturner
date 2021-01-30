@@ -1,0 +1,13 @@
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\VariablesAndStatements\VariablesAndStatements\bin\Debug\netcoreapp3.1\VariablesAndStatements.exe
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\VariablesAndStatements\VariablesAndStatements\bin\Debug\netcoreapp3.1\VariablesAndStatements.deps.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\VariablesAndStatements\VariablesAndStatements\bin\Debug\netcoreapp3.1\VariablesAndStatements.runtimeconfig.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\VariablesAndStatements\VariablesAndStatements\bin\Debug\netcoreapp3.1\VariablesAndStatements.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\VariablesAndStatements\VariablesAndStatements\bin\Debug\netcoreapp3.1\VariablesAndStatements.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\VariablesAndStatements\VariablesAndStatements\bin\Debug\netcoreapp3.1\VariablesAndStatements.pdb
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\VariablesAndStatements\VariablesAndStatements\obj\Debug\netcoreapp3.1\VariablesAndStatements.csprojAssemblyReference.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\VariablesAndStatements\VariablesAndStatements\obj\Debug\netcoreapp3.1\VariablesAndStatements.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\VariablesAndStatements\VariablesAndStatements\obj\Debug\netcoreapp3.1\VariablesAndStatements.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\VariablesAndStatements\VariablesAndStatements\obj\Debug\netcoreapp3.1\VariablesAndStatements.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\VariablesAndStatements\VariablesAndStatements\obj\Debug\netcoreapp3.1\VariablesAndStatements.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\VariablesAndStatements\VariablesAndStatements\obj\Debug\netcoreapp3.1\VariablesAndStatements.pdb
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\VariablesAndStatements\VariablesAndStatements\obj\Debug\netcoreapp3.1\VariablesAndStatements.genruntimeconfig.cache

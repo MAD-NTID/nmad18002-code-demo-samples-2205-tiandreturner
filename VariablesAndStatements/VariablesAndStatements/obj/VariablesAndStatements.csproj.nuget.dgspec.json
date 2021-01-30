@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tjtics\\source\\repos\\nmad18002-code-demo-samples-2205-tiandreturner\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Users\\tjtics\\source\\repos\\nmad18002-code-demo-samples-2205-tiandreturner\\VariablesAndStatements\\VariablesAndStatements\\VariablesAndStatements.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tjtics\\source\\repos\\nmad18002-code-demo-samples-2205-tiandreturner\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\Users\\tjtics\\source\\repos\\nmad18002-code-demo-samples-2205-tiandreturner\\VariablesAndStatements\\VariablesAndStatements\\VariablesAndStatements.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tjtics\\source\\repos\\nmad18002-code-demo-samples-2205-tiandreturner\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
-        "projectName": "HelloWorld",
-        "projectPath": "C:\\Users\\tjtics\\source\\repos\\nmad18002-code-demo-samples-2205-tiandreturner\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\tjtics\\source\\repos\\nmad18002-code-demo-samples-2205-tiandreturner\\VariablesAndStatements\\VariablesAndStatements\\VariablesAndStatements.csproj",
+        "projectName": "VariablesAndStatements",
+        "projectPath": "C:\\Users\\tjtics\\source\\repos\\nmad18002-code-demo-samples-2205-tiandreturner\\VariablesAndStatements\\VariablesAndStatements\\VariablesAndStatements.csproj",
         "packagesPath": "C:\\Users\\tjtics\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tjtics\\source\\repos\\nmad18002-code-demo-samples-2205-tiandreturner\\HelloWorld\\HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\tjtics\\source\\repos\\nmad18002-code-demo-samples-2205-tiandreturner\\VariablesAndStatements\\VariablesAndStatements\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
