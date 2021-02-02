@@ -1,0 +1,13 @@
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\StatementsAndExpressions\StatementsAndExpressions\bin\Debug\netcoreapp3.1\StatementsAndExpressions.exe
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\StatementsAndExpressions\StatementsAndExpressions\bin\Debug\netcoreapp3.1\StatementsAndExpressions.deps.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\StatementsAndExpressions\StatementsAndExpressions\bin\Debug\netcoreapp3.1\StatementsAndExpressions.runtimeconfig.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\StatementsAndExpressions\StatementsAndExpressions\bin\Debug\netcoreapp3.1\StatementsAndExpressions.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\StatementsAndExpressions\StatementsAndExpressions\bin\Debug\netcoreapp3.1\StatementsAndExpressions.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\StatementsAndExpressions\StatementsAndExpressions\bin\Debug\netcoreapp3.1\StatementsAndExpressions.pdb
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\StatementsAndExpressions\StatementsAndExpressions\obj\Debug\netcoreapp3.1\StatementsAndExpressions.csprojAssemblyReference.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\StatementsAndExpressions\StatementsAndExpressions\obj\Debug\netcoreapp3.1\StatementsAndExpressions.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\StatementsAndExpressions\StatementsAndExpressions\obj\Debug\netcoreapp3.1\StatementsAndExpressions.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\StatementsAndExpressions\StatementsAndExpressions\obj\Debug\netcoreapp3.1\StatementsAndExpressions.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\StatementsAndExpressions\StatementsAndExpressions\obj\Debug\netcoreapp3.1\StatementsAndExpressions.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\StatementsAndExpressions\StatementsAndExpressions\obj\Debug\netcoreapp3.1\StatementsAndExpressions.pdb
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\StatementsAndExpressions\StatementsAndExpressions\obj\Debug\netcoreapp3.1\StatementsAndExpressions.genruntimeconfig.cache
