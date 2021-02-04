@@ -1,0 +1,13 @@
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\CastingAndSimpleInputs\CastingAndSimpleInputs\bin\Debug\netcoreapp3.1\CastingAndSimpleInputs.exe
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\CastingAndSimpleInputs\CastingAndSimpleInputs\bin\Debug\netcoreapp3.1\CastingAndSimpleInputs.deps.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\CastingAndSimpleInputs\CastingAndSimpleInputs\bin\Debug\netcoreapp3.1\CastingAndSimpleInputs.runtimeconfig.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\CastingAndSimpleInputs\CastingAndSimpleInputs\bin\Debug\netcoreapp3.1\CastingAndSimpleInputs.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\CastingAndSimpleInputs\CastingAndSimpleInputs\bin\Debug\netcoreapp3.1\CastingAndSimpleInputs.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\CastingAndSimpleInputs\CastingAndSimpleInputs\bin\Debug\netcoreapp3.1\CastingAndSimpleInputs.pdb
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\CastingAndSimpleInputs\CastingAndSimpleInputs\obj\Debug\netcoreapp3.1\CastingAndSimpleInputs.csprojAssemblyReference.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\CastingAndSimpleInputs\CastingAndSimpleInputs\obj\Debug\netcoreapp3.1\CastingAndSimpleInputs.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\CastingAndSimpleInputs\CastingAndSimpleInputs\obj\Debug\netcoreapp3.1\CastingAndSimpleInputs.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\CastingAndSimpleInputs\CastingAndSimpleInputs\obj\Debug\netcoreapp3.1\CastingAndSimpleInputs.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\CastingAndSimpleInputs\CastingAndSimpleInputs\obj\Debug\netcoreapp3.1\CastingAndSimpleInputs.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\CastingAndSimpleInputs\CastingAndSimpleInputs\obj\Debug\netcoreapp3.1\CastingAndSimpleInputs.pdb
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\CastingAndSimpleInputs\CastingAndSimpleInputs\obj\Debug\netcoreapp3.1\CastingAndSimpleInputs.genruntimeconfig.cache
