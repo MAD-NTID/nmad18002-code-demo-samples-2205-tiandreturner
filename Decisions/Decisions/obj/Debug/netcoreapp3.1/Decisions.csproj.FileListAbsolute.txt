@@ -1,0 +1,13 @@
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Decisions\Decisions\bin\Debug\netcoreapp3.1\Decisions.exe
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Decisions\Decisions\bin\Debug\netcoreapp3.1\Decisions.deps.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Decisions\Decisions\bin\Debug\netcoreapp3.1\Decisions.runtimeconfig.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Decisions\Decisions\bin\Debug\netcoreapp3.1\Decisions.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Decisions\Decisions\bin\Debug\netcoreapp3.1\Decisions.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Decisions\Decisions\bin\Debug\netcoreapp3.1\Decisions.pdb
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Decisions\Decisions\obj\Debug\netcoreapp3.1\Decisions.csprojAssemblyReference.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Decisions\Decisions\obj\Debug\netcoreapp3.1\Decisions.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Decisions\Decisions\obj\Debug\netcoreapp3.1\Decisions.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Decisions\Decisions\obj\Debug\netcoreapp3.1\Decisions.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Decisions\Decisions\obj\Debug\netcoreapp3.1\Decisions.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Decisions\Decisions\obj\Debug\netcoreapp3.1\Decisions.pdb
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Decisions\Decisions\obj\Debug\netcoreapp3.1\Decisions.genruntimeconfig.cache
