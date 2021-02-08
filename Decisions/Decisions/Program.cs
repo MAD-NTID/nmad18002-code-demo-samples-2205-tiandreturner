@@ -16,6 +16,8 @@ namespace Decisions
         {
             //Console.WriteLine(-40 > 2);
 
+            const double COMMISSION_RATE = 0.07; // REMEMBER this is FIXED!
+
             Console.WriteLine("Enter the salesperson's name: ");
             string name = Console.ReadLine();
 
@@ -29,7 +31,7 @@ namespace Decisions
             // then, they get the commission.
             if(salesAmount >= 10000)
             {
-                commission = salesAmount * 0.07;
+                commission = salesAmount * COMMISSION_RATE;
             }
 
             //Console.WriteLine("Salesperson: {0:C}", name);
