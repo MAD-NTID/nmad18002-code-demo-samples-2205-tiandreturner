@@ -34,14 +34,20 @@ namespace Decisions
                 commission = salesAmount * COMMISSION_RATE;
             }
 
+            // string interpolation
+            // one way
+
             //Console.WriteLine("Salesperson: {0:C}", name);
             //Console.WriteLine("Total Sales Amount: {0:C}",  salesAmount);
             //Console.WriteLine("Commission {0:C}", commission);
 
-            // another way to do the same thing as above.
+            // a different way to do the same thing as above.
             Console.WriteLine("Salesperson: {0}\nTotal Sales Amount: {1:C}\nCommission {2:C}", name, salesAmount, commission);
 
-
+            // another way to do this
+            Console.WriteLine($"Salesperson: {name}");
+            Console.WriteLine($"Sales Amount: {salesAmount:C}");
+            Console.WriteLine($"Commission: {commission:C}");
         }
     }
 }
