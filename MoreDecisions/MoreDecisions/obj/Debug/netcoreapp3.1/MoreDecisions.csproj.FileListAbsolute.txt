@@ -1,0 +1,13 @@
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\MoreDecisions\MoreDecisions\bin\Debug\netcoreapp3.1\MoreDecisions.exe
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\MoreDecisions\MoreDecisions\bin\Debug\netcoreapp3.1\MoreDecisions.deps.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\MoreDecisions\MoreDecisions\bin\Debug\netcoreapp3.1\MoreDecisions.runtimeconfig.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\MoreDecisions\MoreDecisions\bin\Debug\netcoreapp3.1\MoreDecisions.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\MoreDecisions\MoreDecisions\bin\Debug\netcoreapp3.1\MoreDecisions.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\MoreDecisions\MoreDecisions\bin\Debug\netcoreapp3.1\MoreDecisions.pdb
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\MoreDecisions\MoreDecisions\obj\Debug\netcoreapp3.1\MoreDecisions.csprojAssemblyReference.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\MoreDecisions\MoreDecisions\obj\Debug\netcoreapp3.1\MoreDecisions.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\MoreDecisions\MoreDecisions\obj\Debug\netcoreapp3.1\MoreDecisions.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\MoreDecisions\MoreDecisions\obj\Debug\netcoreapp3.1\MoreDecisions.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\MoreDecisions\MoreDecisions\obj\Debug\netcoreapp3.1\MoreDecisions.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\MoreDecisions\MoreDecisions\obj\Debug\netcoreapp3.1\MoreDecisions.pdb
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\MoreDecisions\MoreDecisions\obj\Debug\netcoreapp3.1\MoreDecisions.genruntimeconfig.cache
