@@ -1,0 +1,12 @@
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\TryParse\If-Else Statements\bin\Debug\netcoreapp3.1\If-Else Statements.exe
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\TryParse\If-Else Statements\bin\Debug\netcoreapp3.1\If-Else Statements.deps.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\TryParse\If-Else Statements\bin\Debug\netcoreapp3.1\If-Else Statements.runtimeconfig.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\TryParse\If-Else Statements\bin\Debug\netcoreapp3.1\If-Else Statements.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\TryParse\If-Else Statements\bin\Debug\netcoreapp3.1\If-Else Statements.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\TryParse\If-Else Statements\bin\Debug\netcoreapp3.1\If-Else Statements.pdb
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\TryParse\If-Else Statements\obj\Debug\netcoreapp3.1\If-Else Statements.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\TryParse\If-Else Statements\obj\Debug\netcoreapp3.1\If-Else Statements.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\TryParse\If-Else Statements\obj\Debug\netcoreapp3.1\If-Else Statements.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\TryParse\If-Else Statements\obj\Debug\netcoreapp3.1\If-Else Statements.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\TryParse\If-Else Statements\obj\Debug\netcoreapp3.1\If-Else Statements.pdb
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\TryParse\If-Else Statements\obj\Debug\netcoreapp3.1\If-Else Statements.genruntimeconfig.cache

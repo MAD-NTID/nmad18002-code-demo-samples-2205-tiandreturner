@@ -1,0 +1,13 @@
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\TryParse\TryParse\bin\Debug\netcoreapp3.1\TryParse.exe
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\TryParse\TryParse\bin\Debug\netcoreapp3.1\TryParse.deps.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\TryParse\TryParse\bin\Debug\netcoreapp3.1\TryParse.runtimeconfig.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\TryParse\TryParse\bin\Debug\netcoreapp3.1\TryParse.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\TryParse\TryParse\bin\Debug\netcoreapp3.1\TryParse.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\TryParse\TryParse\bin\Debug\netcoreapp3.1\TryParse.pdb
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\TryParse\TryParse\obj\Debug\netcoreapp3.1\TryParse.csprojAssemblyReference.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\TryParse\TryParse\obj\Debug\netcoreapp3.1\TryParse.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\TryParse\TryParse\obj\Debug\netcoreapp3.1\TryParse.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\TryParse\TryParse\obj\Debug\netcoreapp3.1\TryParse.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\TryParse\TryParse\obj\Debug\netcoreapp3.1\TryParse.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\TryParse\TryParse\obj\Debug\netcoreapp3.1\TryParse.pdb
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\TryParse\TryParse\obj\Debug\netcoreapp3.1\TryParse.genruntimeconfig.cache

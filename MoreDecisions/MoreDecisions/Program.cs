@@ -43,8 +43,6 @@ namespace MoreDecisions
                 if (brand == "Nissan")
                 {
                     bonus = 750;
-
-                      
                 }
 
                 //if (year == 2004)
