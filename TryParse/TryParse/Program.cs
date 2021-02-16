@@ -60,13 +60,7 @@ namespace TryParse
             //Console.WriteLine($"Your name is {name} ${balance}");
             //Console.WriteLine($"Your name is {name,-15} {balance,15:C0}");
 
-
-
-
-
-
-
-
+            // example of the differences between string interpolation
             //Console.WriteLine($"{name} has a bank balance of {balance:C}");
             //Console.WriteLine("{0,-10}, who is {1,4:N0} has a balance of {2,15:C}", name, age, balance);
         }
