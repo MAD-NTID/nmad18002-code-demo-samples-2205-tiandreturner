@@ -44,7 +44,9 @@ namespace LogicalOperators
             //Console.WriteLine("Commission {0:C}", commission);
             //Console.WriteLine("Bonus: {0:C}", bonus);
             //Console.WriteLine("Total: {0:C}", commission + bonus);
+           // switch
 
+                
             int var1 = -11;
             if(var1 >= -10 &&  var1 <= 10)
             {

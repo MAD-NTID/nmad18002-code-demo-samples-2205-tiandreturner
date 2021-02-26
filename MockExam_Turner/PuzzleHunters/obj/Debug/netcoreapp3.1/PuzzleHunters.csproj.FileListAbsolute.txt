@@ -1,0 +1,13 @@
+C:\Users\tjtics\Downloads\MockExam_Turner\PuzzleHunters\bin\Debug\netcoreapp3.1\PuzzleHunters.exe
+C:\Users\tjtics\Downloads\MockExam_Turner\PuzzleHunters\bin\Debug\netcoreapp3.1\PuzzleHunters.deps.json
+C:\Users\tjtics\Downloads\MockExam_Turner\PuzzleHunters\bin\Debug\netcoreapp3.1\PuzzleHunters.runtimeconfig.json
+C:\Users\tjtics\Downloads\MockExam_Turner\PuzzleHunters\bin\Debug\netcoreapp3.1\PuzzleHunters.runtimeconfig.dev.json
+C:\Users\tjtics\Downloads\MockExam_Turner\PuzzleHunters\bin\Debug\netcoreapp3.1\PuzzleHunters.dll
+C:\Users\tjtics\Downloads\MockExam_Turner\PuzzleHunters\bin\Debug\netcoreapp3.1\PuzzleHunters.pdb
+C:\Users\tjtics\Downloads\MockExam_Turner\PuzzleHunters\obj\Debug\netcoreapp3.1\PuzzleHunters.csprojAssemblyReference.cache
+C:\Users\tjtics\Downloads\MockExam_Turner\PuzzleHunters\obj\Debug\netcoreapp3.1\PuzzleHunters.AssemblyInfoInputs.cache
+C:\Users\tjtics\Downloads\MockExam_Turner\PuzzleHunters\obj\Debug\netcoreapp3.1\PuzzleHunters.AssemblyInfo.cs
+C:\Users\tjtics\Downloads\MockExam_Turner\PuzzleHunters\obj\Debug\netcoreapp3.1\PuzzleHunters.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\Downloads\MockExam_Turner\PuzzleHunters\obj\Debug\netcoreapp3.1\PuzzleHunters.dll
+C:\Users\tjtics\Downloads\MockExam_Turner\PuzzleHunters\obj\Debug\netcoreapp3.1\PuzzleHunters.pdb
+C:\Users\tjtics\Downloads\MockExam_Turner\PuzzleHunters\obj\Debug\netcoreapp3.1\PuzzleHunters.genruntimeconfig.cache

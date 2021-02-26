@@ -1,0 +1,13 @@
+C:\Users\tjtics\Downloads\MockExam_Turner\WingsHeaven\bin\Debug\netcoreapp3.1\WingsHeaven.exe
+C:\Users\tjtics\Downloads\MockExam_Turner\WingsHeaven\bin\Debug\netcoreapp3.1\WingsHeaven.deps.json
+C:\Users\tjtics\Downloads\MockExam_Turner\WingsHeaven\bin\Debug\netcoreapp3.1\WingsHeaven.runtimeconfig.json
+C:\Users\tjtics\Downloads\MockExam_Turner\WingsHeaven\bin\Debug\netcoreapp3.1\WingsHeaven.runtimeconfig.dev.json
+C:\Users\tjtics\Downloads\MockExam_Turner\WingsHeaven\bin\Debug\netcoreapp3.1\WingsHeaven.dll
+C:\Users\tjtics\Downloads\MockExam_Turner\WingsHeaven\bin\Debug\netcoreapp3.1\WingsHeaven.pdb
+C:\Users\tjtics\Downloads\MockExam_Turner\WingsHeaven\obj\Debug\netcoreapp3.1\WingsHeaven.csprojAssemblyReference.cache
+C:\Users\tjtics\Downloads\MockExam_Turner\WingsHeaven\obj\Debug\netcoreapp3.1\WingsHeaven.AssemblyInfoInputs.cache
+C:\Users\tjtics\Downloads\MockExam_Turner\WingsHeaven\obj\Debug\netcoreapp3.1\WingsHeaven.AssemblyInfo.cs
+C:\Users\tjtics\Downloads\MockExam_Turner\WingsHeaven\obj\Debug\netcoreapp3.1\WingsHeaven.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\Downloads\MockExam_Turner\WingsHeaven\obj\Debug\netcoreapp3.1\WingsHeaven.dll
+C:\Users\tjtics\Downloads\MockExam_Turner\WingsHeaven\obj\Debug\netcoreapp3.1\WingsHeaven.pdb
+C:\Users\tjtics\Downloads\MockExam_Turner\WingsHeaven\obj\Debug\netcoreapp3.1\WingsHeaven.genruntimeconfig.cache
