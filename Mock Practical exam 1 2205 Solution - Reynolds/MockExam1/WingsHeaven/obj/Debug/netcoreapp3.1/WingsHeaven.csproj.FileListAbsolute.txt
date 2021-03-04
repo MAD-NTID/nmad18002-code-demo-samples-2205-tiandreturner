@@ -1,0 +1,13 @@
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 13 - Mock Exam I\Solution\MockExam1\WingsHeaven\bin\Debug\netcoreapp3.1\WingsHeaven.exe
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 13 - Mock Exam I\Solution\MockExam1\WingsHeaven\bin\Debug\netcoreapp3.1\WingsHeaven.deps.json
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 13 - Mock Exam I\Solution\MockExam1\WingsHeaven\bin\Debug\netcoreapp3.1\WingsHeaven.runtimeconfig.json
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 13 - Mock Exam I\Solution\MockExam1\WingsHeaven\bin\Debug\netcoreapp3.1\WingsHeaven.runtimeconfig.dev.json
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 13 - Mock Exam I\Solution\MockExam1\WingsHeaven\bin\Debug\netcoreapp3.1\WingsHeaven.dll
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 13 - Mock Exam I\Solution\MockExam1\WingsHeaven\bin\Debug\netcoreapp3.1\WingsHeaven.pdb
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 13 - Mock Exam I\Solution\MockExam1\WingsHeaven\obj\Debug\netcoreapp3.1\WingsHeaven.csprojAssemblyReference.cache
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 13 - Mock Exam I\Solution\MockExam1\WingsHeaven\obj\Debug\netcoreapp3.1\WingsHeaven.AssemblyInfoInputs.cache
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 13 - Mock Exam I\Solution\MockExam1\WingsHeaven\obj\Debug\netcoreapp3.1\WingsHeaven.AssemblyInfo.cs
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 13 - Mock Exam I\Solution\MockExam1\WingsHeaven\obj\Debug\netcoreapp3.1\WingsHeaven.csproj.CoreCompileInputs.cache
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 13 - Mock Exam I\Solution\MockExam1\WingsHeaven\obj\Debug\netcoreapp3.1\WingsHeaven.dll
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 13 - Mock Exam I\Solution\MockExam1\WingsHeaven\obj\Debug\netcoreapp3.1\WingsHeaven.pdb
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 13 - Mock Exam I\Solution\MockExam1\WingsHeaven\obj\Debug\netcoreapp3.1\WingsHeaven.genruntimeconfig.cache
