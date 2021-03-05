@@ -1,0 +1,13 @@
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\MoreArrays\MoreArrays\bin\Debug\netcoreapp3.1\MoreArrays.exe
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\MoreArrays\MoreArrays\bin\Debug\netcoreapp3.1\MoreArrays.deps.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\MoreArrays\MoreArrays\bin\Debug\netcoreapp3.1\MoreArrays.runtimeconfig.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\MoreArrays\MoreArrays\bin\Debug\netcoreapp3.1\MoreArrays.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\MoreArrays\MoreArrays\bin\Debug\netcoreapp3.1\MoreArrays.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\MoreArrays\MoreArrays\bin\Debug\netcoreapp3.1\MoreArrays.pdb
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\MoreArrays\MoreArrays\obj\Debug\netcoreapp3.1\MoreArrays.csprojAssemblyReference.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\MoreArrays\MoreArrays\obj\Debug\netcoreapp3.1\MoreArrays.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\MoreArrays\MoreArrays\obj\Debug\netcoreapp3.1\MoreArrays.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\MoreArrays\MoreArrays\obj\Debug\netcoreapp3.1\MoreArrays.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\MoreArrays\MoreArrays\obj\Debug\netcoreapp3.1\MoreArrays.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\MoreArrays\MoreArrays\obj\Debug\netcoreapp3.1\MoreArrays.pdb
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\MoreArrays\MoreArrays\obj\Debug\netcoreapp3.1\MoreArrays.genruntimeconfig.cache
