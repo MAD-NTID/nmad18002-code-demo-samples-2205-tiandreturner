@@ -1,0 +1,13 @@
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\MoreLoops\MoreLoops\bin\Debug\netcoreapp3.1\MoreLoops.exe
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\MoreLoops\MoreLoops\bin\Debug\netcoreapp3.1\MoreLoops.deps.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\MoreLoops\MoreLoops\bin\Debug\netcoreapp3.1\MoreLoops.runtimeconfig.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\MoreLoops\MoreLoops\bin\Debug\netcoreapp3.1\MoreLoops.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\MoreLoops\MoreLoops\bin\Debug\netcoreapp3.1\MoreLoops.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\MoreLoops\MoreLoops\bin\Debug\netcoreapp3.1\MoreLoops.pdb
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\MoreLoops\MoreLoops\obj\Debug\netcoreapp3.1\MoreLoops.csprojAssemblyReference.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\MoreLoops\MoreLoops\obj\Debug\netcoreapp3.1\MoreLoops.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\MoreLoops\MoreLoops\obj\Debug\netcoreapp3.1\MoreLoops.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\MoreLoops\MoreLoops\obj\Debug\netcoreapp3.1\MoreLoops.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\MoreLoops\MoreLoops\obj\Debug\netcoreapp3.1\MoreLoops.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\MoreLoops\MoreLoops\obj\Debug\netcoreapp3.1\MoreLoops.pdb
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\MoreLoops\MoreLoops\obj\Debug\netcoreapp3.1\MoreLoops.genruntimeconfig.cache
