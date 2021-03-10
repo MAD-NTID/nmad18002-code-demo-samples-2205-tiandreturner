@@ -1,0 +1,13 @@
+C:\Users\tjtics\Desktop\nmad18002-code-demo-samples-2205-tiandreturner\Methods\HelperMethods\bin\Debug\netcoreapp3.1\HelperMethods.exe
+C:\Users\tjtics\Desktop\nmad18002-code-demo-samples-2205-tiandreturner\Methods\HelperMethods\bin\Debug\netcoreapp3.1\HelperMethods.deps.json
+C:\Users\tjtics\Desktop\nmad18002-code-demo-samples-2205-tiandreturner\Methods\HelperMethods\bin\Debug\netcoreapp3.1\HelperMethods.runtimeconfig.json
+C:\Users\tjtics\Desktop\nmad18002-code-demo-samples-2205-tiandreturner\Methods\HelperMethods\bin\Debug\netcoreapp3.1\HelperMethods.runtimeconfig.dev.json
+C:\Users\tjtics\Desktop\nmad18002-code-demo-samples-2205-tiandreturner\Methods\HelperMethods\bin\Debug\netcoreapp3.1\HelperMethods.dll
+C:\Users\tjtics\Desktop\nmad18002-code-demo-samples-2205-tiandreturner\Methods\HelperMethods\bin\Debug\netcoreapp3.1\HelperMethods.pdb
+C:\Users\tjtics\Desktop\nmad18002-code-demo-samples-2205-tiandreturner\Methods\HelperMethods\obj\Debug\netcoreapp3.1\HelperMethods.csprojAssemblyReference.cache
+C:\Users\tjtics\Desktop\nmad18002-code-demo-samples-2205-tiandreturner\Methods\HelperMethods\obj\Debug\netcoreapp3.1\HelperMethods.AssemblyInfoInputs.cache
+C:\Users\tjtics\Desktop\nmad18002-code-demo-samples-2205-tiandreturner\Methods\HelperMethods\obj\Debug\netcoreapp3.1\HelperMethods.AssemblyInfo.cs
+C:\Users\tjtics\Desktop\nmad18002-code-demo-samples-2205-tiandreturner\Methods\HelperMethods\obj\Debug\netcoreapp3.1\HelperMethods.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\Desktop\nmad18002-code-demo-samples-2205-tiandreturner\Methods\HelperMethods\obj\Debug\netcoreapp3.1\HelperMethods.dll
+C:\Users\tjtics\Desktop\nmad18002-code-demo-samples-2205-tiandreturner\Methods\HelperMethods\obj\Debug\netcoreapp3.1\HelperMethods.pdb
+C:\Users\tjtics\Desktop\nmad18002-code-demo-samples-2205-tiandreturner\Methods\HelperMethods\obj\Debug\netcoreapp3.1\HelperMethods.genruntimeconfig.cache

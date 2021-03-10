@@ -9,25 +9,22 @@
   },
   "packageFolders": {
     "C:\\Users\\tjtics\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tjtics\\Documents\\GitHub\\nmad18002-code-demo-samples-2205-tiandreturner\\Methods\\HelperMethods\\HelperMethods.csproj",
+      "projectUniqueName": "C:\\Users\\tjtics\\Desktop\\nmad18002-code-demo-samples-2205-tiandreturner\\Methods\\HelperMethods\\HelperMethods.csproj",
       "projectName": "HelperMethods",
-      "projectPath": "C:\\Users\\tjtics\\Documents\\GitHub\\nmad18002-code-demo-samples-2205-tiandreturner\\Methods\\HelperMethods\\HelperMethods.csproj",
+      "projectPath": "C:\\Users\\tjtics\\Desktop\\nmad18002-code-demo-samples-2205-tiandreturner\\Methods\\HelperMethods\\HelperMethods.csproj",
       "packagesPath": "C:\\Users\\tjtics\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tjtics\\Documents\\GitHub\\nmad18002-code-demo-samples-2205-tiandreturner\\Methods\\HelperMethods\\obj\\",
+      "outputPath": "C:\\Users\\tjtics\\Desktop\\nmad18002-code-demo-samples-2205-tiandreturner\\Methods\\HelperMethods\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
         "C:\\Users\\tjtics\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -68,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }
