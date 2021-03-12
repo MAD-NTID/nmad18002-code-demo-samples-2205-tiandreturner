@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelperMethods", "HelperMethods\HelperMethods.csproj", "{4502E15F-BA92-4962-97E9-25031E9D00FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelperMethods", "HelperMethods\HelperMethods.csproj", "{4502E15F-BA92-4962-97E9-25031E9D00FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParametersAndReturnTypes", "ParametersAndReturnTypes\ParametersAndReturnTypes.csproj", "{DC6D9187-D62C-41C9-9CF1-B7E121DE5AE3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParametersAndReturnTypes", "ParametersAndReturnTypes\ParametersAndReturnTypes.csproj", "{DC6D9187-D62C-41C9-9CF1-B7E121DE5AE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleMethods", "SimpleMethods\SimpleMethods.csproj", "{34CED1AD-D5CA-4DFA-9B0E-E57F70781855}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{DC6D9187-D62C-41C9-9CF1-B7E121DE5AE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC6D9187-D62C-41C9-9CF1-B7E121DE5AE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC6D9187-D62C-41C9-9CF1-B7E121DE5AE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34CED1AD-D5CA-4DFA-9B0E-E57F70781855}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34CED1AD-D5CA-4DFA-9B0E-E57F70781855}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34CED1AD-D5CA-4DFA-9B0E-E57F70781855}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34CED1AD-D5CA-4DFA-9B0E-E57F70781855}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

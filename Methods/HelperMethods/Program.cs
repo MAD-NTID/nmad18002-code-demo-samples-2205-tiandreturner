@@ -132,5 +132,16 @@ namespace HelperMethods
             Console.WriteLine($"Printing this number {number}");
             return number * amountToMultiply;
         }
+
+        private static bool FindNumberTen()
+        {
+            for(int number = 1; number <= 30; number++)
+            {
+                if (number == 10)
+                    return true;
+            }
+
+            return false;
+        }
     }
 }
