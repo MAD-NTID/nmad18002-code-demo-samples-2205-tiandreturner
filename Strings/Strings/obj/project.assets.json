@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tjtics\\source\\repos\\nmad18002-code-demo-samples-2205-tiandreturner\\LogicalOperators\\LogicalOperators\\LogicalOperators.csproj",
-      "projectName": "LogicalOperators",
-      "projectPath": "C:\\Users\\tjtics\\source\\repos\\nmad18002-code-demo-samples-2205-tiandreturner\\LogicalOperators\\LogicalOperators\\LogicalOperators.csproj",
+      "projectUniqueName": "C:\\Users\\tjtics\\source\\repos\\nmad18002-code-demo-samples-2205-tiandreturner\\Strings\\Strings\\Strings.csproj",
+      "projectName": "Strings",
+      "projectPath": "C:\\Users\\tjtics\\source\\repos\\nmad18002-code-demo-samples-2205-tiandreturner\\Strings\\Strings\\Strings.csproj",
       "packagesPath": "C:\\Users\\tjtics\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tjtics\\source\\repos\\nmad18002-code-demo-samples-2205-tiandreturner\\LogicalOperators\\LogicalOperators\\obj\\",
+      "outputPath": "C:\\Users\\tjtics\\source\\repos\\nmad18002-code-demo-samples-2205-tiandreturner\\Strings\\Strings\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
