@@ -1,0 +1,13 @@
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\IntroductionToOOP\ParallelArrays\bin\Debug\netcoreapp3.1\ParallelArrays.exe
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\IntroductionToOOP\ParallelArrays\bin\Debug\netcoreapp3.1\ParallelArrays.deps.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\IntroductionToOOP\ParallelArrays\bin\Debug\netcoreapp3.1\ParallelArrays.runtimeconfig.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\IntroductionToOOP\ParallelArrays\bin\Debug\netcoreapp3.1\ParallelArrays.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\IntroductionToOOP\ParallelArrays\bin\Debug\netcoreapp3.1\ParallelArrays.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\IntroductionToOOP\ParallelArrays\bin\Debug\netcoreapp3.1\ParallelArrays.pdb
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\IntroductionToOOP\ParallelArrays\obj\Debug\netcoreapp3.1\ParallelArrays.csprojAssemblyReference.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\IntroductionToOOP\ParallelArrays\obj\Debug\netcoreapp3.1\ParallelArrays.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\IntroductionToOOP\ParallelArrays\obj\Debug\netcoreapp3.1\ParallelArrays.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\IntroductionToOOP\ParallelArrays\obj\Debug\netcoreapp3.1\ParallelArrays.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\IntroductionToOOP\ParallelArrays\obj\Debug\netcoreapp3.1\ParallelArrays.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\IntroductionToOOP\ParallelArrays\obj\Debug\netcoreapp3.1\ParallelArrays.pdb
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\IntroductionToOOP\ParallelArrays\obj\Debug\netcoreapp3.1\ParallelArrays.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\IntroductionToOOP\OOPBasics\bin\Debug\netcoreapp3.1\OOPBasics.exe
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\IntroductionToOOP\OOPBasics\bin\Debug\netcoreapp3.1\OOPBasics.deps.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\IntroductionToOOP\OOPBasics\bin\Debug\netcoreapp3.1\OOPBasics.runtimeconfig.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\IntroductionToOOP\OOPBasics\bin\Debug\netcoreapp3.1\OOPBasics.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\IntroductionToOOP\OOPBasics\bin\Debug\netcoreapp3.1\OOPBasics.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\IntroductionToOOP\OOPBasics\bin\Debug\netcoreapp3.1\OOPBasics.pdb
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\IntroductionToOOP\OOPBasics\obj\Debug\netcoreapp3.1\OOPBasics.csprojAssemblyReference.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\IntroductionToOOP\OOPBasics\obj\Debug\netcoreapp3.1\OOPBasics.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\IntroductionToOOP\OOPBasics\obj\Debug\netcoreapp3.1\OOPBasics.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\IntroductionToOOP\OOPBasics\obj\Debug\netcoreapp3.1\OOPBasics.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\IntroductionToOOP\OOPBasics\obj\Debug\netcoreapp3.1\OOPBasics.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\IntroductionToOOP\OOPBasics\obj\Debug\netcoreapp3.1\OOPBasics.pdb
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\IntroductionToOOP\OOPBasics\obj\Debug\netcoreapp3.1\OOPBasics.genruntimeconfig.cache
