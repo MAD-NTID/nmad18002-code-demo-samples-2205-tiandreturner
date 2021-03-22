@@ -6,7 +6,7 @@ namespace OOPBasics
 {
     class Grade
     {
-        private string firstName;
+        public string firstName;
         public string lastName;
         public string courseNum;
         public string grade;

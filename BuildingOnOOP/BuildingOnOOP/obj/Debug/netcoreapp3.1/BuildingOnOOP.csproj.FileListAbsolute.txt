@@ -1,0 +1,13 @@
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\BuildingOnOOP\BuildingOnOOP\bin\Debug\netcoreapp3.1\BuildingOnOOP.exe
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\BuildingOnOOP\BuildingOnOOP\bin\Debug\netcoreapp3.1\BuildingOnOOP.deps.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\BuildingOnOOP\BuildingOnOOP\bin\Debug\netcoreapp3.1\BuildingOnOOP.runtimeconfig.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\BuildingOnOOP\BuildingOnOOP\bin\Debug\netcoreapp3.1\BuildingOnOOP.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\BuildingOnOOP\BuildingOnOOP\bin\Debug\netcoreapp3.1\BuildingOnOOP.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\BuildingOnOOP\BuildingOnOOP\bin\Debug\netcoreapp3.1\BuildingOnOOP.pdb
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\BuildingOnOOP\BuildingOnOOP\obj\Debug\netcoreapp3.1\BuildingOnOOP.csprojAssemblyReference.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\BuildingOnOOP\BuildingOnOOP\obj\Debug\netcoreapp3.1\BuildingOnOOP.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\BuildingOnOOP\BuildingOnOOP\obj\Debug\netcoreapp3.1\BuildingOnOOP.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\BuildingOnOOP\BuildingOnOOP\obj\Debug\netcoreapp3.1\BuildingOnOOP.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\BuildingOnOOP\BuildingOnOOP\obj\Debug\netcoreapp3.1\BuildingOnOOP.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\BuildingOnOOP\BuildingOnOOP\obj\Debug\netcoreapp3.1\BuildingOnOOP.pdb
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\BuildingOnOOP\BuildingOnOOP\obj\Debug\netcoreapp3.1\BuildingOnOOP.genruntimeconfig.cache
