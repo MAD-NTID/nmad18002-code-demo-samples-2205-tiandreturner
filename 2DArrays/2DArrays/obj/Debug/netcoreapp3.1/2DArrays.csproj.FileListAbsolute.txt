@@ -1,0 +1,13 @@
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\2DArrays\2DArrays\bin\Debug\netcoreapp3.1\2DArrays.exe
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\2DArrays\2DArrays\bin\Debug\netcoreapp3.1\2DArrays.deps.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\2DArrays\2DArrays\bin\Debug\netcoreapp3.1\2DArrays.runtimeconfig.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\2DArrays\2DArrays\bin\Debug\netcoreapp3.1\2DArrays.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\2DArrays\2DArrays\bin\Debug\netcoreapp3.1\2DArrays.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\2DArrays\2DArrays\bin\Debug\netcoreapp3.1\2DArrays.pdb
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\2DArrays\2DArrays\obj\Debug\netcoreapp3.1\2DArrays.csprojAssemblyReference.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\2DArrays\2DArrays\obj\Debug\netcoreapp3.1\2DArrays.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\2DArrays\2DArrays\obj\Debug\netcoreapp3.1\2DArrays.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\2DArrays\2DArrays\obj\Debug\netcoreapp3.1\2DArrays.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\2DArrays\2DArrays\obj\Debug\netcoreapp3.1\2DArrays.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\2DArrays\2DArrays\obj\Debug\netcoreapp3.1\2DArrays.pdb
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\2DArrays\2DArrays\obj\Debug\netcoreapp3.1\2DArrays.genruntimeconfig.cache

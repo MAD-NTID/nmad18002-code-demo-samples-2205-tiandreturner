@@ -1,0 +1,13 @@
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\SkateboardExample\SkateboardExample\bin\Debug\netcoreapp3.1\SkateboardExample.exe
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\SkateboardExample\SkateboardExample\bin\Debug\netcoreapp3.1\SkateboardExample.deps.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\SkateboardExample\SkateboardExample\bin\Debug\netcoreapp3.1\SkateboardExample.runtimeconfig.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\SkateboardExample\SkateboardExample\bin\Debug\netcoreapp3.1\SkateboardExample.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\SkateboardExample\SkateboardExample\bin\Debug\netcoreapp3.1\SkateboardExample.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\SkateboardExample\SkateboardExample\bin\Debug\netcoreapp3.1\SkateboardExample.pdb
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\SkateboardExample\SkateboardExample\obj\Debug\netcoreapp3.1\SkateboardExample.csprojAssemblyReference.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\SkateboardExample\SkateboardExample\obj\Debug\netcoreapp3.1\SkateboardExample.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\SkateboardExample\SkateboardExample\obj\Debug\netcoreapp3.1\SkateboardExample.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\SkateboardExample\SkateboardExample\obj\Debug\netcoreapp3.1\SkateboardExample.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\SkateboardExample\SkateboardExample\obj\Debug\netcoreapp3.1\SkateboardExample.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\SkateboardExample\SkateboardExample\obj\Debug\netcoreapp3.1\SkateboardExample.pdb
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\SkateboardExample\SkateboardExample\obj\Debug\netcoreapp3.1\SkateboardExample.genruntimeconfig.cache
