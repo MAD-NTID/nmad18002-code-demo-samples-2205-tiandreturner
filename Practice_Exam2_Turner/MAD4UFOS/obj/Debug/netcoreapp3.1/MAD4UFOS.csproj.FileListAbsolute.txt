@@ -1,0 +1,13 @@
+C:\Users\tjtics\Downloads\Practice_Exam2_Turner\Practice_Exam2_Turner\MAD4UFOS\bin\Debug\netcoreapp3.1\MAD4UFOS.exe
+C:\Users\tjtics\Downloads\Practice_Exam2_Turner\Practice_Exam2_Turner\MAD4UFOS\bin\Debug\netcoreapp3.1\MAD4UFOS.deps.json
+C:\Users\tjtics\Downloads\Practice_Exam2_Turner\Practice_Exam2_Turner\MAD4UFOS\bin\Debug\netcoreapp3.1\MAD4UFOS.runtimeconfig.json
+C:\Users\tjtics\Downloads\Practice_Exam2_Turner\Practice_Exam2_Turner\MAD4UFOS\bin\Debug\netcoreapp3.1\MAD4UFOS.runtimeconfig.dev.json
+C:\Users\tjtics\Downloads\Practice_Exam2_Turner\Practice_Exam2_Turner\MAD4UFOS\bin\Debug\netcoreapp3.1\MAD4UFOS.dll
+C:\Users\tjtics\Downloads\Practice_Exam2_Turner\Practice_Exam2_Turner\MAD4UFOS\bin\Debug\netcoreapp3.1\MAD4UFOS.pdb
+C:\Users\tjtics\Downloads\Practice_Exam2_Turner\Practice_Exam2_Turner\MAD4UFOS\obj\Debug\netcoreapp3.1\MAD4UFOS.csprojAssemblyReference.cache
+C:\Users\tjtics\Downloads\Practice_Exam2_Turner\Practice_Exam2_Turner\MAD4UFOS\obj\Debug\netcoreapp3.1\MAD4UFOS.AssemblyInfoInputs.cache
+C:\Users\tjtics\Downloads\Practice_Exam2_Turner\Practice_Exam2_Turner\MAD4UFOS\obj\Debug\netcoreapp3.1\MAD4UFOS.AssemblyInfo.cs
+C:\Users\tjtics\Downloads\Practice_Exam2_Turner\Practice_Exam2_Turner\MAD4UFOS\obj\Debug\netcoreapp3.1\MAD4UFOS.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\Downloads\Practice_Exam2_Turner\Practice_Exam2_Turner\MAD4UFOS\obj\Debug\netcoreapp3.1\MAD4UFOS.dll
+C:\Users\tjtics\Downloads\Practice_Exam2_Turner\Practice_Exam2_Turner\MAD4UFOS\obj\Debug\netcoreapp3.1\MAD4UFOS.pdb
+C:\Users\tjtics\Downloads\Practice_Exam2_Turner\Practice_Exam2_Turner\MAD4UFOS\obj\Debug\netcoreapp3.1\MAD4UFOS.genruntimeconfig.cache
