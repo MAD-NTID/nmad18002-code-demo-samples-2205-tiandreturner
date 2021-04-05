@@ -1,0 +1,16 @@
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\DateTimeAndEnumDemo\DateTimeAndEnumDemo\bin\Debug\net5.0\DateTimeAndEnumDemo.exe
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\DateTimeAndEnumDemo\DateTimeAndEnumDemo\bin\Debug\net5.0\DateTimeAndEnumDemo.deps.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\DateTimeAndEnumDemo\DateTimeAndEnumDemo\bin\Debug\net5.0\DateTimeAndEnumDemo.runtimeconfig.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\DateTimeAndEnumDemo\DateTimeAndEnumDemo\bin\Debug\net5.0\DateTimeAndEnumDemo.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\DateTimeAndEnumDemo\DateTimeAndEnumDemo\bin\Debug\net5.0\DateTimeAndEnumDemo.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\DateTimeAndEnumDemo\DateTimeAndEnumDemo\bin\Debug\net5.0\ref\DateTimeAndEnumDemo.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\DateTimeAndEnumDemo\DateTimeAndEnumDemo\bin\Debug\net5.0\DateTimeAndEnumDemo.pdb
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\DateTimeAndEnumDemo\DateTimeAndEnumDemo\obj\Debug\net5.0\DateTimeAndEnumDemo.csprojAssemblyReference.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\DateTimeAndEnumDemo\DateTimeAndEnumDemo\obj\Debug\net5.0\DateTimeAndEnumDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\DateTimeAndEnumDemo\DateTimeAndEnumDemo\obj\Debug\net5.0\DateTimeAndEnumDemo.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\DateTimeAndEnumDemo\DateTimeAndEnumDemo\obj\Debug\net5.0\DateTimeAndEnumDemo.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\DateTimeAndEnumDemo\DateTimeAndEnumDemo\obj\Debug\net5.0\DateTimeAndEnumDemo.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\DateTimeAndEnumDemo\DateTimeAndEnumDemo\obj\Debug\net5.0\DateTimeAndEnumDemo.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\DateTimeAndEnumDemo\DateTimeAndEnumDemo\obj\Debug\net5.0\ref\DateTimeAndEnumDemo.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\DateTimeAndEnumDemo\DateTimeAndEnumDemo\obj\Debug\net5.0\DateTimeAndEnumDemo.pdb
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\DateTimeAndEnumDemo\DateTimeAndEnumDemo\obj\Debug\net5.0\DateTimeAndEnumDemo.genruntimeconfig.cache
