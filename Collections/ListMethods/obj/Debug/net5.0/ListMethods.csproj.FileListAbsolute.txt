@@ -1,0 +1,16 @@
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Collections\ListMethods\bin\Debug\net5.0\ListMethods.exe
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Collections\ListMethods\bin\Debug\net5.0\ListMethods.deps.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Collections\ListMethods\bin\Debug\net5.0\ListMethods.runtimeconfig.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Collections\ListMethods\bin\Debug\net5.0\ListMethods.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Collections\ListMethods\bin\Debug\net5.0\ListMethods.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Collections\ListMethods\bin\Debug\net5.0\ref\ListMethods.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Collections\ListMethods\bin\Debug\net5.0\ListMethods.pdb
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Collections\ListMethods\obj\Debug\net5.0\ListMethods.csprojAssemblyReference.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Collections\ListMethods\obj\Debug\net5.0\ListMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Collections\ListMethods\obj\Debug\net5.0\ListMethods.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Collections\ListMethods\obj\Debug\net5.0\ListMethods.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Collections\ListMethods\obj\Debug\net5.0\ListMethods.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Collections\ListMethods\obj\Debug\net5.0\ListMethods.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Collections\ListMethods\obj\Debug\net5.0\ref\ListMethods.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Collections\ListMethods\obj\Debug\net5.0\ListMethods.pdb
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Collections\ListMethods\obj\Debug\net5.0\ListMethods.genruntimeconfig.cache
