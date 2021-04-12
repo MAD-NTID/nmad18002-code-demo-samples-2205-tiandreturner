@@ -4,24 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ListMethods
+namespace DictionaryDemo
 {
-
-    
     class Book
     {
-        Book book;
-        List<int> pages = new List<int>();
         // TODO: Create properties
         // https://www.bookshare.org/cms/scanning-home/book-information-page
-
-        private List<int> myVar;
-
-        public List<int> MyProperty
-        {
-            get { return myVar; }
-            set { myVar = value; }
-        }
 
 
         // Title
@@ -61,6 +49,11 @@ namespace ListMethods
         {
             get { return year; }
             set { year = value; }
+        }
+
+        public override string ToString()
+        {
+            return $"{ISBN}, {Title} by {Author}";
         }
 
 

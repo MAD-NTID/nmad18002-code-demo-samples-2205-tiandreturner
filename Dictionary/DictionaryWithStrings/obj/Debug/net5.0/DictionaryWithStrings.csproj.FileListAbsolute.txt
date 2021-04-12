@@ -1,0 +1,15 @@
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Dictionary\DictionaryWithStrings\bin\Debug\net5.0\DictionaryWithStrings.exe
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Dictionary\DictionaryWithStrings\bin\Debug\net5.0\DictionaryWithStrings.deps.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Dictionary\DictionaryWithStrings\bin\Debug\net5.0\DictionaryWithStrings.runtimeconfig.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Dictionary\DictionaryWithStrings\bin\Debug\net5.0\DictionaryWithStrings.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Dictionary\DictionaryWithStrings\bin\Debug\net5.0\DictionaryWithStrings.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Dictionary\DictionaryWithStrings\bin\Debug\net5.0\ref\DictionaryWithStrings.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Dictionary\DictionaryWithStrings\bin\Debug\net5.0\DictionaryWithStrings.pdb
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Dictionary\DictionaryWithStrings\obj\Debug\net5.0\DictionaryWithStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Dictionary\DictionaryWithStrings\obj\Debug\net5.0\DictionaryWithStrings.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Dictionary\DictionaryWithStrings\obj\Debug\net5.0\DictionaryWithStrings.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Dictionary\DictionaryWithStrings\obj\Debug\net5.0\DictionaryWithStrings.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Dictionary\DictionaryWithStrings\obj\Debug\net5.0\DictionaryWithStrings.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Dictionary\DictionaryWithStrings\obj\Debug\net5.0\ref\DictionaryWithStrings.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Dictionary\DictionaryWithStrings\obj\Debug\net5.0\DictionaryWithStrings.pdb
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Dictionary\DictionaryWithStrings\obj\Debug\net5.0\DictionaryWithStrings.genruntimeconfig.cache
