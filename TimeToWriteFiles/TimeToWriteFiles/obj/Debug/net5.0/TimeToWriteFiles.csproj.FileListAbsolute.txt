@@ -1,0 +1,16 @@
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\TimeToWriteFiles\TimeToWriteFiles\bin\Debug\net5.0\TimeToWriteFiles.exe
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\TimeToWriteFiles\TimeToWriteFiles\bin\Debug\net5.0\TimeToWriteFiles.deps.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\TimeToWriteFiles\TimeToWriteFiles\bin\Debug\net5.0\TimeToWriteFiles.runtimeconfig.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\TimeToWriteFiles\TimeToWriteFiles\bin\Debug\net5.0\TimeToWriteFiles.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\TimeToWriteFiles\TimeToWriteFiles\bin\Debug\net5.0\TimeToWriteFiles.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\TimeToWriteFiles\TimeToWriteFiles\bin\Debug\net5.0\ref\TimeToWriteFiles.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\TimeToWriteFiles\TimeToWriteFiles\bin\Debug\net5.0\TimeToWriteFiles.pdb
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\TimeToWriteFiles\TimeToWriteFiles\obj\Debug\net5.0\TimeToWriteFiles.csprojAssemblyReference.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\TimeToWriteFiles\TimeToWriteFiles\obj\Debug\net5.0\TimeToWriteFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\TimeToWriteFiles\TimeToWriteFiles\obj\Debug\net5.0\TimeToWriteFiles.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\TimeToWriteFiles\TimeToWriteFiles\obj\Debug\net5.0\TimeToWriteFiles.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\TimeToWriteFiles\TimeToWriteFiles\obj\Debug\net5.0\TimeToWriteFiles.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\TimeToWriteFiles\TimeToWriteFiles\obj\Debug\net5.0\TimeToWriteFiles.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\TimeToWriteFiles\TimeToWriteFiles\obj\Debug\net5.0\ref\TimeToWriteFiles.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\TimeToWriteFiles\TimeToWriteFiles\obj\Debug\net5.0\TimeToWriteFiles.pdb
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\TimeToWriteFiles\TimeToWriteFiles\obj\Debug\net5.0\TimeToWriteFiles.genruntimeconfig.cache
