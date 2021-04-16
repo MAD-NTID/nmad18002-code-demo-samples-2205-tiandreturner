@@ -1,0 +1,16 @@
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\ReadingFromFiles\ReadingFromFiles\bin\Debug\net5.0\ReadingFromFiles.exe
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\ReadingFromFiles\ReadingFromFiles\bin\Debug\net5.0\ReadingFromFiles.deps.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\ReadingFromFiles\ReadingFromFiles\bin\Debug\net5.0\ReadingFromFiles.runtimeconfig.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\ReadingFromFiles\ReadingFromFiles\bin\Debug\net5.0\ReadingFromFiles.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\ReadingFromFiles\ReadingFromFiles\bin\Debug\net5.0\ReadingFromFiles.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\ReadingFromFiles\ReadingFromFiles\bin\Debug\net5.0\ref\ReadingFromFiles.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\ReadingFromFiles\ReadingFromFiles\bin\Debug\net5.0\ReadingFromFiles.pdb
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\ReadingFromFiles\ReadingFromFiles\obj\Debug\net5.0\ReadingFromFiles.csprojAssemblyReference.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\ReadingFromFiles\ReadingFromFiles\obj\Debug\net5.0\ReadingFromFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\ReadingFromFiles\ReadingFromFiles\obj\Debug\net5.0\ReadingFromFiles.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\ReadingFromFiles\ReadingFromFiles\obj\Debug\net5.0\ReadingFromFiles.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\ReadingFromFiles\ReadingFromFiles\obj\Debug\net5.0\ReadingFromFiles.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\ReadingFromFiles\ReadingFromFiles\obj\Debug\net5.0\ReadingFromFiles.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\ReadingFromFiles\ReadingFromFiles\obj\Debug\net5.0\ref\ReadingFromFiles.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\ReadingFromFiles\ReadingFromFiles\obj\Debug\net5.0\ReadingFromFiles.pdb
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\ReadingFromFiles\ReadingFromFiles\obj\Debug\net5.0\ReadingFromFiles.genruntimeconfig.cache
