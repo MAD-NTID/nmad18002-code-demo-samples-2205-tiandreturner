@@ -18,7 +18,7 @@ namespace ListMethods
         {
             ShowBooks();
             // Insert My Sister's Keeper by Jodi Picoult at the fourth element
-            //books.Insert(3,new Book() { ISBN = 9781741143478, Title = "My Sister's Keeper", Author = "Jodi Picoult" });
+            books.Insert(3,new Book() { ISBN = 9781741143478, Title = "My Sister's Keeper", Author = "Jodi Picoult" });
 
             //Console.WriteLine("\nAfter inserting");
             //ShowBooks();

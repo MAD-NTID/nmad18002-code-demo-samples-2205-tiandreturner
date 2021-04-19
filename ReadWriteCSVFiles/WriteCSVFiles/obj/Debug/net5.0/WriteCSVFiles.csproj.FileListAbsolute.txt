@@ -1,0 +1,16 @@
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\ReadWriteCSVFiles\WriteCSVFiles\bin\Debug\net5.0\WriteCSVFiles.exe
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\ReadWriteCSVFiles\WriteCSVFiles\bin\Debug\net5.0\WriteCSVFiles.deps.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\ReadWriteCSVFiles\WriteCSVFiles\bin\Debug\net5.0\WriteCSVFiles.runtimeconfig.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\ReadWriteCSVFiles\WriteCSVFiles\bin\Debug\net5.0\WriteCSVFiles.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\ReadWriteCSVFiles\WriteCSVFiles\bin\Debug\net5.0\WriteCSVFiles.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\ReadWriteCSVFiles\WriteCSVFiles\bin\Debug\net5.0\ref\WriteCSVFiles.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\ReadWriteCSVFiles\WriteCSVFiles\bin\Debug\net5.0\WriteCSVFiles.pdb
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\ReadWriteCSVFiles\WriteCSVFiles\obj\Debug\net5.0\WriteCSVFiles.csprojAssemblyReference.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\ReadWriteCSVFiles\WriteCSVFiles\obj\Debug\net5.0\WriteCSVFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\ReadWriteCSVFiles\WriteCSVFiles\obj\Debug\net5.0\WriteCSVFiles.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\ReadWriteCSVFiles\WriteCSVFiles\obj\Debug\net5.0\WriteCSVFiles.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\ReadWriteCSVFiles\WriteCSVFiles\obj\Debug\net5.0\WriteCSVFiles.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\ReadWriteCSVFiles\WriteCSVFiles\obj\Debug\net5.0\WriteCSVFiles.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\ReadWriteCSVFiles\WriteCSVFiles\obj\Debug\net5.0\ref\WriteCSVFiles.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\ReadWriteCSVFiles\WriteCSVFiles\obj\Debug\net5.0\WriteCSVFiles.pdb
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\ReadWriteCSVFiles\WriteCSVFiles\obj\Debug\net5.0\WriteCSVFiles.genruntimeconfig.cache

@@ -1,0 +1,32 @@
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 35 - Reading-Writing CSV files\Unit_35_Example\Unit_35_CSV_Example\Unit_35_CSV_Example\obj\Debug\net5.0\Unit_35_CSV_Example.csprojAssemblyReference.cache
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 35 - Reading-Writing CSV files\Unit_35_Example\Unit_35_CSV_Example\Unit_35_CSV_Example\obj\Debug\net5.0\Unit_35_CSV_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 35 - Reading-Writing CSV files\Unit_35_Example\Unit_35_CSV_Example\Unit_35_CSV_Example\obj\Debug\net5.0\Unit_35_CSV_Example.AssemblyInfoInputs.cache
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 35 - Reading-Writing CSV files\Unit_35_Example\Unit_35_CSV_Example\Unit_35_CSV_Example\obj\Debug\net5.0\Unit_35_CSV_Example.AssemblyInfo.cs
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 35 - Reading-Writing CSV files\Unit_35_Example\Unit_35_CSV_Example\Unit_35_CSV_Example\obj\Debug\net5.0\Unit_35_CSV_Example.csproj.CoreCompileInputs.cache
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 35 - Reading-Writing CSV files\Unit_35_Example\Unit_35_CSV_Example\Unit_35_CSV_Example\bin\Debug\net5.0\Unit_35_CSV_Example.exe
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 35 - Reading-Writing CSV files\Unit_35_Example\Unit_35_CSV_Example\Unit_35_CSV_Example\bin\Debug\net5.0\Unit_35_CSV_Example.deps.json
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 35 - Reading-Writing CSV files\Unit_35_Example\Unit_35_CSV_Example\Unit_35_CSV_Example\bin\Debug\net5.0\Unit_35_CSV_Example.runtimeconfig.json
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 35 - Reading-Writing CSV files\Unit_35_Example\Unit_35_CSV_Example\Unit_35_CSV_Example\bin\Debug\net5.0\Unit_35_CSV_Example.runtimeconfig.dev.json
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 35 - Reading-Writing CSV files\Unit_35_Example\Unit_35_CSV_Example\Unit_35_CSV_Example\bin\Debug\net5.0\Unit_35_CSV_Example.dll
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 35 - Reading-Writing CSV files\Unit_35_Example\Unit_35_CSV_Example\Unit_35_CSV_Example\bin\Debug\net5.0\ref\Unit_35_CSV_Example.dll
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 35 - Reading-Writing CSV files\Unit_35_Example\Unit_35_CSV_Example\Unit_35_CSV_Example\bin\Debug\net5.0\Unit_35_CSV_Example.pdb
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 35 - Reading-Writing CSV files\Unit_35_Example\Unit_35_CSV_Example\Unit_35_CSV_Example\obj\Debug\net5.0\Unit_35_CSV_Example.dll
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 35 - Reading-Writing CSV files\Unit_35_Example\Unit_35_CSV_Example\Unit_35_CSV_Example\obj\Debug\net5.0\ref\Unit_35_CSV_Example.dll
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 35 - Reading-Writing CSV files\Unit_35_Example\Unit_35_CSV_Example\Unit_35_CSV_Example\obj\Debug\net5.0\Unit_35_CSV_Example.pdb
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 35 - Reading-Writing CSV files\Unit_35_Example\Unit_35_CSV_Example\Unit_35_CSV_Example\obj\Debug\net5.0\Unit_35_CSV_Example.genruntimeconfig.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Unit_35_CSV_Example\Unit_35_CSV_Example\bin\Debug\net5.0\Unit_35_CSV_Example.exe
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Unit_35_CSV_Example\Unit_35_CSV_Example\bin\Debug\net5.0\Unit_35_CSV_Example.deps.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Unit_35_CSV_Example\Unit_35_CSV_Example\bin\Debug\net5.0\Unit_35_CSV_Example.runtimeconfig.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Unit_35_CSV_Example\Unit_35_CSV_Example\bin\Debug\net5.0\Unit_35_CSV_Example.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Unit_35_CSV_Example\Unit_35_CSV_Example\bin\Debug\net5.0\Unit_35_CSV_Example.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Unit_35_CSV_Example\Unit_35_CSV_Example\bin\Debug\net5.0\ref\Unit_35_CSV_Example.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Unit_35_CSV_Example\Unit_35_CSV_Example\bin\Debug\net5.0\Unit_35_CSV_Example.pdb
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Unit_35_CSV_Example\Unit_35_CSV_Example\obj\Debug\net5.0\Unit_35_CSV_Example.csprojAssemblyReference.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Unit_35_CSV_Example\Unit_35_CSV_Example\obj\Debug\net5.0\Unit_35_CSV_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Unit_35_CSV_Example\Unit_35_CSV_Example\obj\Debug\net5.0\Unit_35_CSV_Example.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Unit_35_CSV_Example\Unit_35_CSV_Example\obj\Debug\net5.0\Unit_35_CSV_Example.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Unit_35_CSV_Example\Unit_35_CSV_Example\obj\Debug\net5.0\Unit_35_CSV_Example.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Unit_35_CSV_Example\Unit_35_CSV_Example\obj\Debug\net5.0\Unit_35_CSV_Example.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Unit_35_CSV_Example\Unit_35_CSV_Example\obj\Debug\net5.0\ref\Unit_35_CSV_Example.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Unit_35_CSV_Example\Unit_35_CSV_Example\obj\Debug\net5.0\Unit_35_CSV_Example.pdb
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Unit_35_CSV_Example\Unit_35_CSV_Example\obj\Debug\net5.0\Unit_35_CSV_Example.genruntimeconfig.cache

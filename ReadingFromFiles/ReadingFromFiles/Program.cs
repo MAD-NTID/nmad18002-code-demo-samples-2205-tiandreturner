@@ -18,7 +18,7 @@ namespace ReadingFromFiles
 
 
             Console.WriteLine("\n\nACCESSING PF1.TXT");
-            StreamWriter writer = new StreamWriter("pf1.txt");// automatically goes to the bin folder if not specify the path
+            StreamWriter writer = new StreamWriter("pf1.txt");// automatically goes to the bin folder if you DO NOT specify the path
             writer.WriteLine("\"Life is better if you have no homework\" - Menna");
             writer.WriteLine("\"Make peace and be kind\" - Bill");
             writer.WriteLine("\"i Don't Know\" - Alvin");

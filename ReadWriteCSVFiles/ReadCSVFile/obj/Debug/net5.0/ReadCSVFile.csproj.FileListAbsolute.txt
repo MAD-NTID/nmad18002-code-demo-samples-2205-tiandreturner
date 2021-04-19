@@ -1,0 +1,16 @@
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\ReadWriteCSVFiles\ReadCSVFile\bin\Debug\net5.0\ReadCSVFile.exe
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\ReadWriteCSVFiles\ReadCSVFile\bin\Debug\net5.0\ReadCSVFile.deps.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\ReadWriteCSVFiles\ReadCSVFile\bin\Debug\net5.0\ReadCSVFile.runtimeconfig.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\ReadWriteCSVFiles\ReadCSVFile\bin\Debug\net5.0\ReadCSVFile.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\ReadWriteCSVFiles\ReadCSVFile\bin\Debug\net5.0\ReadCSVFile.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\ReadWriteCSVFiles\ReadCSVFile\bin\Debug\net5.0\ref\ReadCSVFile.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\ReadWriteCSVFiles\ReadCSVFile\bin\Debug\net5.0\ReadCSVFile.pdb
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\ReadWriteCSVFiles\ReadCSVFile\obj\Debug\net5.0\ReadCSVFile.csprojAssemblyReference.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\ReadWriteCSVFiles\ReadCSVFile\obj\Debug\net5.0\ReadCSVFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\ReadWriteCSVFiles\ReadCSVFile\obj\Debug\net5.0\ReadCSVFile.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\ReadWriteCSVFiles\ReadCSVFile\obj\Debug\net5.0\ReadCSVFile.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\ReadWriteCSVFiles\ReadCSVFile\obj\Debug\net5.0\ReadCSVFile.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\ReadWriteCSVFiles\ReadCSVFile\obj\Debug\net5.0\ReadCSVFile.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\ReadWriteCSVFiles\ReadCSVFile\obj\Debug\net5.0\ref\ReadCSVFile.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\ReadWriteCSVFiles\ReadCSVFile\obj\Debug\net5.0\ReadCSVFile.pdb
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\ReadWriteCSVFiles\ReadCSVFile\obj\Debug\net5.0\ReadCSVFile.genruntimeconfig.cache

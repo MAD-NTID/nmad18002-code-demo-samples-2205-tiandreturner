@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unit_35_CSV_Example", "Unit_35_CSV_Example\Unit_35_CSV_Example.csproj", "{941B110E-A53D-4F59-8525-D75BFFBE0EC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadTheData", "ReadTheData\ReadTheData.csproj", "{828C7199-0AE6-4C3B-91EB-04627AE54631}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{941B110E-A53D-4F59-8525-D75BFFBE0EC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{941B110E-A53D-4F59-8525-D75BFFBE0EC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{941B110E-A53D-4F59-8525-D75BFFBE0EC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{941B110E-A53D-4F59-8525-D75BFFBE0EC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{828C7199-0AE6-4C3B-91EB-04627AE54631}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{828C7199-0AE6-4C3B-91EB-04627AE54631}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{828C7199-0AE6-4C3B-91EB-04627AE54631}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{828C7199-0AE6-4C3B-91EB-04627AE54631}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FD7EEE4-4B3D-4AD7-9DED-A19986804A64}
+	EndGlobalSection
+EndGlobal
