@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HgMTRkDZf6SYDgsgF7FSfKEaEDYQHznBeiYu/UfY7V00iX0z8b3FaW5eKIpWOXBtn66vMgpM8DX/dKfD5J/aww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tjtics\\source\\repos\\nmad18002-code-demo-samples-2205-tiandreturner\\Unit36_Example\\Unit36_Example\\Unit36_Example.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tjtics\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,36 @@
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 36 - File IO - Serializing\Unit36_Example\Unit36_Example\bin\Debug\net5.0\Unit36_Example.exe
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 36 - File IO - Serializing\Unit36_Example\Unit36_Example\bin\Debug\net5.0\Unit36_Example.deps.json
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 36 - File IO - Serializing\Unit36_Example\Unit36_Example\bin\Debug\net5.0\Unit36_Example.runtimeconfig.json
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 36 - File IO - Serializing\Unit36_Example\Unit36_Example\bin\Debug\net5.0\Unit36_Example.runtimeconfig.dev.json
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 36 - File IO - Serializing\Unit36_Example\Unit36_Example\bin\Debug\net5.0\Unit36_Example.dll
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 36 - File IO - Serializing\Unit36_Example\Unit36_Example\bin\Debug\net5.0\ref\Unit36_Example.dll
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 36 - File IO - Serializing\Unit36_Example\Unit36_Example\bin\Debug\net5.0\Unit36_Example.pdb
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 36 - File IO - Serializing\Unit36_Example\Unit36_Example\obj\Debug\net5.0\Unit36_Example.csprojAssemblyReference.cache
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 36 - File IO - Serializing\Unit36_Example\Unit36_Example\obj\Debug\net5.0\Unit36_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 36 - File IO - Serializing\Unit36_Example\Unit36_Example\obj\Debug\net5.0\Unit36_Example.AssemblyInfoInputs.cache
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 36 - File IO - Serializing\Unit36_Example\Unit36_Example\obj\Debug\net5.0\Unit36_Example.AssemblyInfo.cs
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 36 - File IO - Serializing\Unit36_Example\Unit36_Example\obj\Debug\net5.0\Unit36_Example.csproj.CoreCompileInputs.cache
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 36 - File IO - Serializing\Unit36_Example\Unit36_Example\obj\Debug\net5.0\Unit36_Example.dll
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 36 - File IO - Serializing\Unit36_Example\Unit36_Example\obj\Debug\net5.0\ref\Unit36_Example.dll
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 36 - File IO - Serializing\Unit36_Example\Unit36_Example\obj\Debug\net5.0\Unit36_Example.pdb
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 36 - File IO - Serializing\Unit36_Example\Unit36_Example\obj\Debug\net5.0\Unit36_Example.genruntimeconfig.cache
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 36 - File IO - Serializing\Unit36_Example\Unit36_Example\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 36 - File IO - Serializing\Unit36_Example\Unit36_Example\obj\Debug\net5.0\Unit36_Example.csproj.CopyComplete
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Unit36_Example\Unit36_Example\bin\Debug\net5.0\Unit36_Example.exe
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Unit36_Example\Unit36_Example\bin\Debug\net5.0\Unit36_Example.deps.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Unit36_Example\Unit36_Example\bin\Debug\net5.0\Unit36_Example.runtimeconfig.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Unit36_Example\Unit36_Example\bin\Debug\net5.0\Unit36_Example.runtimeconfig.dev.json
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Unit36_Example\Unit36_Example\bin\Debug\net5.0\Unit36_Example.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Unit36_Example\Unit36_Example\bin\Debug\net5.0\ref\Unit36_Example.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Unit36_Example\Unit36_Example\bin\Debug\net5.0\Unit36_Example.pdb
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Unit36_Example\Unit36_Example\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Unit36_Example\Unit36_Example\obj\Debug\net5.0\Unit36_Example.csprojAssemblyReference.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Unit36_Example\Unit36_Example\obj\Debug\net5.0\Unit36_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Unit36_Example\Unit36_Example\obj\Debug\net5.0\Unit36_Example.AssemblyInfoInputs.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Unit36_Example\Unit36_Example\obj\Debug\net5.0\Unit36_Example.AssemblyInfo.cs
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Unit36_Example\Unit36_Example\obj\Debug\net5.0\Unit36_Example.csproj.CoreCompileInputs.cache
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Unit36_Example\Unit36_Example\obj\Debug\net5.0\Unit36_Example.csproj.CopyComplete
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Unit36_Example\Unit36_Example\obj\Debug\net5.0\Unit36_Example.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Unit36_Example\Unit36_Example\obj\Debug\net5.0\ref\Unit36_Example.dll
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Unit36_Example\Unit36_Example\obj\Debug\net5.0\Unit36_Example.pdb
+C:\Users\tjtics\source\repos\nmad18002-code-demo-samples-2205-tiandreturner\Unit36_Example\Unit36_Example\obj\Debug\net5.0\Unit36_Example.genruntimeconfig.cache
