@@ -11,6 +11,15 @@ namespace Collections
         // TODO: Create properties
         // https://www.bookshare.org/cms/scanning-home/book-information-page
 
+        public Book()
+        {
+            Title = "N/A";
+        }
+
+        public Book(string _title, string _author)
+        {
+
+        }
 
         // Title
         private string title;
