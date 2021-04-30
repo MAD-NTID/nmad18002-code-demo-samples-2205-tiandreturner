@@ -1,0 +1,16 @@
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 39 - Final Exam Prep\FinalExamPrep2205\TurnerCarSales\bin\Debug\net5.0\TurnerCarSales.exe
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 39 - Final Exam Prep\FinalExamPrep2205\TurnerCarSales\bin\Debug\net5.0\TurnerCarSales.deps.json
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 39 - Final Exam Prep\FinalExamPrep2205\TurnerCarSales\bin\Debug\net5.0\TurnerCarSales.runtimeconfig.json
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 39 - Final Exam Prep\FinalExamPrep2205\TurnerCarSales\bin\Debug\net5.0\TurnerCarSales.runtimeconfig.dev.json
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 39 - Final Exam Prep\FinalExamPrep2205\TurnerCarSales\bin\Debug\net5.0\TurnerCarSales.dll
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 39 - Final Exam Prep\FinalExamPrep2205\TurnerCarSales\bin\Debug\net5.0\ref\TurnerCarSales.dll
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 39 - Final Exam Prep\FinalExamPrep2205\TurnerCarSales\bin\Debug\net5.0\TurnerCarSales.pdb
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 39 - Final Exam Prep\FinalExamPrep2205\TurnerCarSales\obj\Debug\net5.0\TurnerCarSales.csprojAssemblyReference.cache
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 39 - Final Exam Prep\FinalExamPrep2205\TurnerCarSales\obj\Debug\net5.0\TurnerCarSales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 39 - Final Exam Prep\FinalExamPrep2205\TurnerCarSales\obj\Debug\net5.0\TurnerCarSales.AssemblyInfoInputs.cache
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 39 - Final Exam Prep\FinalExamPrep2205\TurnerCarSales\obj\Debug\net5.0\TurnerCarSales.AssemblyInfo.cs
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 39 - Final Exam Prep\FinalExamPrep2205\TurnerCarSales\obj\Debug\net5.0\TurnerCarSales.csproj.CoreCompileInputs.cache
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 39 - Final Exam Prep\FinalExamPrep2205\TurnerCarSales\obj\Debug\net5.0\TurnerCarSales.dll
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 39 - Final Exam Prep\FinalExamPrep2205\TurnerCarSales\obj\Debug\net5.0\ref\TurnerCarSales.dll
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 39 - Final Exam Prep\FinalExamPrep2205\TurnerCarSales\obj\Debug\net5.0\TurnerCarSales.pdb
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 39 - Final Exam Prep\FinalExamPrep2205\TurnerCarSales\obj\Debug\net5.0\TurnerCarSales.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 39 - Final Exam Prep\FinalExamPrep2205\DiningCommonStats\bin\Debug\net5.0\DiningCommonStats.exe
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 39 - Final Exam Prep\FinalExamPrep2205\DiningCommonStats\bin\Debug\net5.0\DiningCommonStats.deps.json
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 39 - Final Exam Prep\FinalExamPrep2205\DiningCommonStats\bin\Debug\net5.0\DiningCommonStats.runtimeconfig.json
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 39 - Final Exam Prep\FinalExamPrep2205\DiningCommonStats\bin\Debug\net5.0\DiningCommonStats.runtimeconfig.dev.json
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 39 - Final Exam Prep\FinalExamPrep2205\DiningCommonStats\bin\Debug\net5.0\DiningCommonStats.dll
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 39 - Final Exam Prep\FinalExamPrep2205\DiningCommonStats\bin\Debug\net5.0\ref\DiningCommonStats.dll
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 39 - Final Exam Prep\FinalExamPrep2205\DiningCommonStats\bin\Debug\net5.0\DiningCommonStats.pdb
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 39 - Final Exam Prep\FinalExamPrep2205\DiningCommonStats\obj\Debug\net5.0\DiningCommonStats.csprojAssemblyReference.cache
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 39 - Final Exam Prep\FinalExamPrep2205\DiningCommonStats\obj\Debug\net5.0\DiningCommonStats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 39 - Final Exam Prep\FinalExamPrep2205\DiningCommonStats\obj\Debug\net5.0\DiningCommonStats.AssemblyInfoInputs.cache
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 39 - Final Exam Prep\FinalExamPrep2205\DiningCommonStats\obj\Debug\net5.0\DiningCommonStats.AssemblyInfo.cs
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 39 - Final Exam Prep\FinalExamPrep2205\DiningCommonStats\obj\Debug\net5.0\DiningCommonStats.csproj.CoreCompileInputs.cache
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 39 - Final Exam Prep\FinalExamPrep2205\DiningCommonStats\obj\Debug\net5.0\DiningCommonStats.dll
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 39 - Final Exam Prep\FinalExamPrep2205\DiningCommonStats\obj\Debug\net5.0\ref\DiningCommonStats.dll
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 39 - Final Exam Prep\FinalExamPrep2205\DiningCommonStats\obj\Debug\net5.0\DiningCommonStats.pdb
+C:\Users\msrvks\OneDrive - rit.edu\NMAD-180 2205\Unit 39 - Final Exam Prep\FinalExamPrep2205\DiningCommonStats\obj\Debug\net5.0\DiningCommonStats.genruntimeconfig.cache
